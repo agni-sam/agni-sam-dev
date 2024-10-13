@@ -3,7 +3,7 @@ name: Dev (Development)
 on:
   push:
     branches:
-      - supabase-dev
+      - main
   workflow_dispatch:
 
 jobs:
